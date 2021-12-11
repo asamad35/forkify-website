@@ -66,5 +66,4 @@ export const sendJSON = async function (url, uploadData) {
 };
 */
 
-console.log('jelo');
-console.log('jelo0000');
+console.log('new feature');
