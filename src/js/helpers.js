@@ -67,4 +67,4 @@ export const sendJSON = async function (url, uploadData) {
 */
 
 console.log('new feature');
-console.log('Hurray course completed');
+console.log('Hurray course completed. yess');
